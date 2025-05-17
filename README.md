@@ -1,4 +1,4 @@
-#MLMCreator
+# MLMCreator
 MLMCreator is a user-friendly, modular machine learning web application built with Streamlit that enables users to upload datasets, preprocess data, train models, and evaluate results — all through an interactive interface. The app supports tabular, image, and text data workflows and provides advanced analytics, visualizations, and model management features.
 
 🚀 Features
